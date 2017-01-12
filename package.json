@@ -1,9 +1,0 @@
-{
-    "dependencies":{
-        "express":"*",
-        "sequelize":"*",
-        "body-parser":"*",
-        "cors":"*",
-        "mysql":"*"
-    }
-}
